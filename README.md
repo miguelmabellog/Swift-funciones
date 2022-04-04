@@ -1,14 +1,16 @@
 # Swift-funciones
-curso de swift funciones
+Funciones en SWIFT
 
 Este es un proyecto de prueba para ejecutar funciones de swift en VSC en widnows
 es necesario tener instalado swift en windows y los elementos adicionales que 
-solicita tener que se instalan por visual studio. Más información en https://www.swift.org/download/
+solicita tener que se instalan por visual studio. 
 
-// es Importante que las rutas de las tres carpetas de swift estén en las variables de entrono / path :
-// C:\Library\Swift-development\bin
-// C:\Library\icu-67\usr\bin
-// C:\Library\Developer\Toolchains\unknown-Asserts-development.xctoolchain\usr\bin
+Más información en https://www.swift.org/download/
+
+Es Importante que las rutas de las tres carpetas de swift estén en las variables de entrono / path :
+* C:\Library\Swift-development\bin
+* C:\Library\icu-67\usr\bin
+* C:\Library\Developer\Toolchains\unknown-Asserts-development.xctoolchain\usr\bin
 
 Los codigos se ejecutan desde la terminal, solo es ejecutar el archivo build.bat: file..\SWIFT> .\build.bat, 
 VSC crea la carpeta .vscode con el .json, esta carpeta se debe elimina
