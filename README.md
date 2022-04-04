@@ -1,8 +1,9 @@
 # Swift-funciones
 Funciones en SWIFT
 
-Este es un proyecto de prueba para ejecutar funciones de SWIFT en VSC en windows
-es necesario tener instalado swift en windows y los elementos adicionales que 
+Este es un proyecto de prueba para ejecutar funciones de SWIFT en VSC en windows.
+
+Es necesario tener instalado swift en windows y los elementos adicionales que 
 solicita tener que se instalan por visual studio. 
 
 Más información en https://www.swift.org/download/
