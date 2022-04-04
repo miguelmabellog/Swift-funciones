@@ -25,8 +25,10 @@ Extrensiones :
 * Swift Development Environment
 
 
-en main.swift están varias secciones de código que están comentadas, cada una de estas secciones
-son una función en swift, sintaxis y métodos básicos.
+//En main.swift están varias secciones de código que están comentadas, cada una de estas secciones
+son una función en SWIFT, con su sintaxis y métodos básicos.
+
+//Este método sirve para aprender a usar SWIFT de una manera básica, liberias y demás elementos como SWIFTUI no pueden ser ejecutados
 
 
 
