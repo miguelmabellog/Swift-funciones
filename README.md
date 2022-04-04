@@ -14,6 +14,7 @@ Es Importante que las rutas de las tres carpetas de swift estén en las variable
 
 Los codigos se ejecutan desde la terminal, solo es ejecutar el archivo build.bat: 
 * folder/addrs> .\build.bat
+
 VSC crea la carpeta .vscode con el .json, esta carpeta se debe elimina
 
 // Normalmente aparecen muchos mensajes de error al iniciar, es normal solamente es quitarlos ya que todo se ejecuta desde la terminal.
